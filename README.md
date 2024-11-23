@@ -1,4 +1,3 @@
-# Krishnav
 <h1 align="center">Hi 👋, I'm Krishnav Garg, a first year college student passionate about coding and creating projects. My main focus is to learn and build projects and solve problems that would help me grow.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
